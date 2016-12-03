@@ -10,3 +10,5 @@ Gra składa się z trzech klas:
 * MyButton - Klasa MyButton dziedziczy po klasie JButton. Dzięki temu gra korzysta z przycisków, 
   które zawierają dodatkowy atrybut o wartości true lub false.
 * FocusGame - Kod zawierający GUI i  wszystkie czynności które po kolei mają mieć miejsce w aplikacji.
+
+W repozytorium umieściłem jeszcze plik FocusGame.jar - zawiera on skompilowaną, działąjącą grę.
